@@ -21,7 +21,7 @@ while (input != null) {
 list1.sort()
 list2.sort()
 
-var sum = 0
+var sum: Int = 0
 
 for (i in 0 until list1.size) {
     sum += abs(list1[i] - list2[i])
