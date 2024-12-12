@@ -1,4 +1,4 @@
-// AOC 2024 Day 11 Problem 1
+// AOC 2024 Day 12 Problem 1
 
 import java.io.File
 import java.io.BufferedReader
