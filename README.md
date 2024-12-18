@@ -3,7 +3,7 @@ Two thousand and twenty-fourth iteration of Advent of Code. What a many centurie
 
 This year, I'll be trying to solve problems in Kotlin. There is beauty in madness...
 
-#### Unsolved Problems:
+#### [Unsolved Problems:](https://github.com/1spyral/AdventOfCode2024/issues?q=is%3Aissue+is%3Aopen+label%3Aunsolved)
 - Day 17 Problem 2
 
 Christmas cheers from [Sion Gang](https://github.com/siongang)
