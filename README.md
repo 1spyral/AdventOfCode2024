@@ -1,7 +1,10 @@
 # AdventOfCode2024
-Two thousand and twenty fourth iteration of Advent of Code. What a many centuries it's been!
+Two thousand and twenty-fourth iteration of Advent of Code. What a many centuries it's been!
 
 This year, I'll be trying to solve problems in Kotlin. There is beauty in madness...
+
+#### Unsolved Problems:
+- Day 17 Problem 2
 
 Christmas cheers from [Sion Gang](https://github.com/siongang)
 
