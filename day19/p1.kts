@@ -7,9 +7,6 @@ import java.util.LinkedList
 val file: File = File("input.txt")
 val reader: BufferedReader = file.bufferedReader()
 
-val width: Int = 71
-val height: Int = 71
-
 var input: String? = reader.readLine()
 val towels: List<String> = input!!.split(", ")
 
