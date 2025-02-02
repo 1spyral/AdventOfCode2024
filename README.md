@@ -6,6 +6,7 @@ This year, I'll be trying to solve problems in Kotlin. There is beauty in madnes
 #### [Unsolved Problems:](https://github.com/1spyral/AdventOfCode2024/issues?q=is%3Aissue+is%3Aopen+label%3Aunsolved)
 - Day 17 Problem 2
 - Day 21 Problem 1 / 2
+- Day 24 Problem 2
 
 Christmas cheers from [Sion Gang](https://github.com/siongang)
 
